@@ -1,0 +1,11 @@
+{
+    "type": "mysql",
+    "host": "localhost",
+    "port": 3390,
+    "username": "",
+    "password": "",
+    "database": "",
+    "entities": ["dist/models/**/*.model.js"],
+    "logging": true,
+    "synchronize": true
+  }
